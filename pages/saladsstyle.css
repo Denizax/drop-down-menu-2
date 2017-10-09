@@ -1,0 +1,86 @@
+
+
+
+
+button{
+    
+    display:block;
+    width:800px;
+    height:500px;
+    margin:0px auto;
+    padding:20px;
+    text-decoration:none;
+    
+    
+
+}
+
+button, a{
+    text-decoration:none;
+    color:white;
+    font-family: 'Roboto';
+    -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: black;
+    font-size:50px;
+    
+}
+
+
+
+#btn1{
+    background:url(img/caesar_salad.gif);
+    background-size:cover;
+    
+   
+}
+
+#btn2{
+    
+    
+    background:url(img/cobb_salad.gif);
+    background-size:cover;
+    
+   
+}
+
+#btn1{
+    
+    
+    background:url(img/caesar_salad.gif);
+    background-size:cover;
+   
+}
+
+#btn3{
+    
+    background:url(img/greek_salad.jpg);
+    background-size:cover;
+   
+}
+
+#btn4{
+    
+    
+    background:url(img/mexican_salad.jpg);
+    background-size:cover;
+    
+   
+}
+
+#btn5{
+    
+    
+    background:url(img/potato_salad.jpg);
+    background-size:cover;
+   
+}
+
+#btn6{
+    
+   
+    background:url(img/shopska_salad.jpg);
+    background-position: center;
+    opacity:0.7;
+    background-size:1500px;
+   
+}

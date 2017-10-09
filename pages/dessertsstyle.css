@@ -1,0 +1,100 @@
+
+
+
+
+
+button{
+    display:block;
+    width:800px;
+    height:500px;
+    margin:0px auto;
+    padding:20px;
+
+}
+
+
+button, a{
+    text-decoration:none;
+    font-family:'Roboto';
+    -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: black;
+    font-size:50px;
+}
+
+
+
+#btn1{
+    
+    color:white;
+    background:url('desserts_img/banana-split-17976-1.jpg');
+    background-size:500px;
+    background-position:center;
+    opacity:0.6;
+    background-size:cover;
+    
+    
+   
+}
+
+#btn2{
+    
+    color:white;
+    background:url('desserts_img/IMG_5537-1.jpg');
+    background-position:center;
+    opacity:0.6;
+    background-size:cover;
+    
+}
+
+
+
+#btn3{
+    
+    color:white;
+    background:url('desserts_img/blueberry.cheesecake.jpg');
+    background-position:center;
+    opacity:0.6;
+    background-size:cover;
+    
+    
+   
+}
+
+#btn4{
+    
+    color:white;
+    background:url('desserts_img/easy-molten-chocolate-souffle-58756-1.jpg');
+    background-size:600px;
+    background-position:center;
+    opacity:0.6;
+    background-size:cover;
+    
+    
+   
+}
+
+#btn5{
+    
+    color:white;
+    background:url('desserts_img/creme-caramel-74779-1.jpg');
+    background-size:700px;
+    background-position:center;
+    opacity:0.6;
+    background-size:cover;
+    
+    
+   
+}
+
+#btn6{
+    
+    color:white;
+    background:url('desserts_img/easy-pancakes_1980x1320-118377-1.jpg');
+    background-position:center;
+    background-size:800px;
+    opacity:0.6;
+    background-size:cover;
+    
+   
+}
+
