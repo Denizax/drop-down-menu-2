@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <link rel="stylesheet" type="text/css" href="style.css">
+       
+    <title>CSS Nav bar</title>
+    </head>
+    
+    
+    
+<body>
+    
+    
+    <script type="text/javascript" src="cordova.js"></script>
+<script>
+document.addEventListener('deviceready', onDeviceReady.bind(this), false);
+        function onDeviceReady() {    
+        cordova.plugins.notification.local.schedule({
+    id: 1,
+    title: "Notification",
+    firstAt:new Date(),
+    message: "Denica Zaharieva",
+    every: "week"
+
+});
+        };
+</script>
+        
+        
+        
+<div class="container">
+<ul id="navbar">
+    <div class="salads">
+<li><a href="pages/salads.html">Salads</a>
+        </li>
+            </div>
+    
+ <div class="dishes">   
+    <li><a href="pages/dishes.html">Dishes</a>
+     </li>
+    </div>   
+                
+
+    <div class="desserts">
+<li><a href="pages/desserts.html">Desserts</a>
+        </li>
+    </div>
+    </ul>
+    </div>
+        
+    </body>
+</html>

@@ -1,0 +1,40 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto');
+</style>
+
+
+
+
+
+body{
+    margin:0;
+    padding:0;
+    
+    
+}
+
+body{
+    background-color:#ff6666;
+    
+}
+.container{
+    text-align:center;
+    padding-top:100px;
+    
+    
+}
+
+li{
+    list-style-type: none;
+    margin-top:50px;
+    text-align:center;
+    padding:20px;
+}
+
+li a{
+    font-family:'Roboto';
+    color:white;
+    text-decoration:none;
+    font-size:80px;
+    
+}
